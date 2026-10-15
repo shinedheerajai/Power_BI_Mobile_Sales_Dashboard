@@ -32,5 +32,3 @@ To view and interact with the local project file, you will need:
 2. Navigate to the project directory and open the `.pbix` file.
 3. Explore the interactive visual elements using the built-in slicers and filters.
 
-## 📝 License
-This project is licensed under the MIT License - see the LICENSE file for details.
